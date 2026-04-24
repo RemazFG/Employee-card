@@ -24,9 +24,7 @@ This project is a high-quality "Digital ID Card" built with Flutter. It features
 
 | Front Side (Profile) | Back Side (Details) |
 |---|---|
-| <img src="<img width="388" height="896" alt="EmpCard1" src="https://github.com/user-attachments/assets/cd85696b-b2a7-487e-b540-4bfae8b72127" />
-" width="300"> | <img src="<img width="393" height="893" alt="EmpCard2" src="https://github.com/user-attachments/assets/e5ec70e8-1fbb-4006-9d99-3fca102e0ba0" />
-" width="300"> |
+| <img src="https://github.com/user-attachments/assets/cd85696b-b2a7-487e-b540-4bfae8b72127" width="300"> | <img src="https://github.com/user-attachments/assets/e5ec70e8-1fbb-4006-9d99-3fca102e0ba0" width="300"> |
 
 ---
 
